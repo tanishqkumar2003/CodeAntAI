@@ -1,6 +1,4 @@
-# CodeAnt AI (YC W24)
-
-This repository contains a Next.js project. Follow the steps below to set up the project and contribute.
+# CodeAnt AI Assignment
 
 ## 🚀 Getting Started
 
@@ -14,8 +12,8 @@ This repository contains a Next.js project. Follow the steps below to set up the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pradhumngautam/codeant-ai.git
-cd codeant-ai
+git clone https://github.com/tanishqkumar2003/CodeAntAI.git
+cd CodeAntAI
 ```
 
 2. Install dependencies:
