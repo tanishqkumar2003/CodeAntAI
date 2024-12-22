@@ -1,6 +1,6 @@
 # CodeAnt AI Assignment
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
