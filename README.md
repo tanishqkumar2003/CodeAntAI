@@ -5,7 +5,8 @@
 ### Prerequisites
 
 - Ensure you have Node.js installed (v18+ recommended).
-- Install npm or yarn (npm is used in the example).
+- Install npm or yarn (npm is used in the example
+
 
 ## Setup Instructions
 
